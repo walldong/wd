@@ -1,0 +1,1 @@
+$(document).ready(function(){$("#showdiv1,#showdiv2,#showdiv3,#showdiv4,#showdiv5,#showdiv6,#showdiv7,#showdiv8,#showdiv9,#showdiv10,#showdiv11,#showdiv12,#showdiv13").fancybox({padding:0,hideOnOverlayClick:false,fitToView:false,autoSize:true,closeClick:true,openEffect:"none",closeEffect:"none","onClosed":function(){window.document.location.reload(true)},centerOnScroll:true})});
